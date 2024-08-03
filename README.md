@@ -9,15 +9,21 @@ This repository contains an analysis of sales data during the Diwali festival pe
 The analysis focuses on several key areas:
 
 • Data Cleaning: Handling missing values and preparing the dataset for analysis.
+
 • Exploratory Data Analysis (EDA): Visualizing data to uncover trends, patterns, and insights.
+
 • Sales Trends: Analyzing sales trends over time, product categories, and customer demographics.
+
 • Customer Insights: Understanding customer behavior, preferences, and segmentation.
 
 # Libraries Used
 
 • pandas
+
 • numpy
+
 • matplotlib
+
 • seaborn
 
 # Results
@@ -25,6 +31,9 @@ The analysis focuses on several key areas:
 The notebook provides various visualizations and insights that highlight:
 
 • Peak sales periods during the Diwali festival.
+
 • Popular product categories and their sales performance.
+
 • Demographic analysis of customers.
+
 • Sales patterns and customer segmentation.
